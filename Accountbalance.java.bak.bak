@@ -1,0 +1,16 @@
+import java.util.Scanner;
+import java.util.*;
+
+class Accountbalance
+{
+int q;
+int balance()
+{
+	
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the amount that u wish to deposit");
+q=sc.nextInt();
+return q;
+}
+}
+
